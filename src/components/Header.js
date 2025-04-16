@@ -19,7 +19,7 @@ function Header() {
         <div className="user">
           <img
             src={require("../img/WhatsApp Image 2025-04-16 at 10.24.39 PM.jpeg")}
-            alt="Profile Photo"
+            alt="Rajvi R. Donga"
           />
           <h3 className="name">Rajvi R. Donga</h3>
           
