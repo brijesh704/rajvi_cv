@@ -8,43 +8,24 @@ function Education() {
 
         <div className="box">
             <i className="fas fa-graduation-cap"></i>
-            <span>2017</span>
+            <span>2022</span>
             <h3>S.S.C. Passout</h3>
+            <p>82.57%</p>
             <p></p>
         </div>
 
         <div className="box">
             <i className="fas fa-graduation-cap"></i>
-            <span>2019</span>
+            <span>2024</span>
             <h3>H.S.C. Passout</h3>
+            <p>89.93%</p>
             <p></p>
         </div>
 
         <div className="box">
             <i className="fas fa-graduation-cap"></i>
             <span>2022</span>
-            <h3>B.C.A running</h3>
-            <p></p>
-        </div>
-
-        <div className="box">
-            <i className="fas fa-graduation-cap"></i>
-            <span>2022</span>
-            <h3>Started Work As A javascript Developer at blackwolve technologies.</h3>
-            <p></p>
-        </div>
-
-        <div className="box">
-            <i className="fas fa-graduation-cap"></i>
-            <span>2023</span>
-            <h3>Coming Soon</h3>
-            <p></p>
-        </div>
-
-        <div className="box">
-            <i className="fas fa-graduation-cap"></i>
-            <span>2023</span>
-            <h3>Coming Soon</h3>
+            <h3>B.B.A running</h3>
             <p></p>
         </div>
 

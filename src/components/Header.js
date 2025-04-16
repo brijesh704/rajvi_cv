@@ -18,11 +18,11 @@ function Header() {
       <header className={isShow ? 'toggle' : ""}>
         <div className="user">
           <img
-            src={require("../img/wi36iFIc_400x400.jpg")}
+            src={require("../img/WhatsApp Image 2025-04-16 at 10.24.39 PM.jpeg")}
             alt="Profile Photo"
           />
-          <h3 className="name">Rahul H. Vekariya</h3>
-          <p className="post">Web Developer</p>
+          <h3 className="name">Rajvi R. Donga</h3>
+          
         </div>
 
         <nav className="navbar">
