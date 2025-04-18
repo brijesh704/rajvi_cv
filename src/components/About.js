@@ -19,11 +19,11 @@ function About() {
           <h3>
             <span>Language: </span>Gujarati, Hindi, English
           </h3>
-          <Link to="/">
+          <a href={require("../cv/Rajvi_CV.pdf")} download="Rajvi_CV.pdf">
             <button className="btn">
               Download CV <i className="fas fa-download"></i>
             </button>
-          </Link>
+          </a>
         </div>
 
         <div className="counter">
