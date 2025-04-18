@@ -24,7 +24,7 @@ function Education() {
 
         <div className="box">
             <i className="fas fa-graduation-cap"></i>
-            <span>2022</span>
+            <span>2025</span>
             <h3>B.B.A running</h3>
             <p></p>
         </div>
